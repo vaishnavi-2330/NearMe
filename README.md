@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-17 at 15 11 03](https://github.com/user-attachments/assets/19e38c9b-3bea-4838-b7eb-23ca8fd7506e)# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 17.10.2025
 
 ## AIM
